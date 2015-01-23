@@ -12,23 +12,18 @@ namespace Kieskeurig
     {
 
         /// <summary>
-        /// Testmethode om te kijken of de gebruiker met gebruiker ID 1 ook wel echt als voornaam Nathan heeft
+        /// Testmethode om te kijken of de naam van het product klopt
         /// </summary>
         [TestMethod]
-        public void TestVoornaamGebruiker1()
+        public void TestProductNaam()
         {
-            string expected = "Nathan";
-            string result = string.Empty;
+            string expected = "Samsung E100";
             DatabaseMng databasemng = new DatabaseMng();
-            foreach (Gebruiker gebruiker in DatabaseMng.GetGebruiker())
-            {
-                if (gebruiker.gebruikerID == 1)
-                {
-                    result = gebruiker.Voornaam;
-                }
-            }
+            Product p = databasemng.GetProduct("Samsung E100");
+            string result = p.Naam;
+            //verwachte result is true
             Assert.AreEqual(expected, result);
         }
-
+        
     }
 }
