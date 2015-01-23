@@ -1,0 +1,15 @@
+C:\Users\Nathan\Dropbox\P3 en P4\P4\SE22\Individuele opdracht\IndividueleOpdracht-master\Individuele Opdracht\obj\Debug\Individuele Opdracht.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Dropbox\P3 en P4\P4\SE22\Individuele opdracht\IndividueleOpdracht-master\Individuele Opdracht\bin\Individuele Opdracht.dll.config
+C:\Users\Nathan\Dropbox\P3 en P4\P4\SE22\Individuele opdracht\IndividueleOpdracht-master\Individuele Opdracht\bin\Individuele Opdracht.dll
+C:\Users\Nathan\Dropbox\P3 en P4\P4\SE22\Individuele opdracht\IndividueleOpdracht-master\Individuele Opdracht\bin\Individuele Opdracht.pdb
+C:\Users\Nathan\Dropbox\P3 en P4\P4\SE22\Individuele opdracht\IndividueleOpdracht-master\Individuele Opdracht\bin\Oracle.DataAccess.dll
+C:\Users\Nathan\Dropbox\P3 en P4\P4\SE22\Individuele opdracht\IndividueleOpdracht-master\Individuele Opdracht\obj\Debug\Individuele Opdracht.dll
+C:\Users\Nathan\Dropbox\P3 en P4\P4\SE22\Individuele opdracht\IndividueleOpdracht-master\Individuele Opdracht\obj\Debug\Individuele Opdracht.pdb
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Individuele Opdracht\bin\Individuele Opdracht.dll.config
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Individuele Opdracht\bin\Individuele Opdracht.dll
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Individuele Opdracht\bin\Individuele Opdracht.pdb
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Individuele Opdracht\bin\Oracle.DataAccess.dll
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Individuele Opdracht\obj\Debug\Individuele Opdracht.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Individuele Opdracht\obj\Debug\Individuele Opdracht.dll
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Individuele Opdracht\obj\Debug\Individuele Opdracht.pdb
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Individuele Opdracht\bin\Oracle.Web.dll

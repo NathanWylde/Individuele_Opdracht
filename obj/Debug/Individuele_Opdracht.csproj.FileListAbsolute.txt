@@ -1,0 +1,8 @@
+C:\Users\Nathan\Desktop\SE2 Individuele Opdracht\Individuele Opdracht\bin\Individuele Opdracht.dll.config
+C:\Users\Nathan\Desktop\SE2 Individuele Opdracht\Individuele Opdracht\bin\Individuele Opdracht.dll
+C:\Users\Nathan\Desktop\SE2 Individuele Opdracht\Individuele Opdracht\bin\Individuele Opdracht.pdb
+C:\Users\Nathan\Desktop\SE2 Individuele Opdracht\Individuele Opdracht\bin\Oracle.DataAccess.dll
+C:\Users\Nathan\Desktop\SE2 Individuele Opdracht\Individuele Opdracht\bin\Oracle.Web.dll
+C:\Users\Nathan\Desktop\SE2 Individuele Opdracht\Individuele Opdracht\obj\Debug\Individuele_Opdracht.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\SE2 Individuele Opdracht\Individuele Opdracht\obj\Debug\Individuele Opdracht.dll
+C:\Users\Nathan\Desktop\SE2 Individuele Opdracht\Individuele Opdracht\obj\Debug\Individuele Opdracht.pdb

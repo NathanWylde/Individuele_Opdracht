@@ -1,0 +1,7 @@
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Individuele Opdracht\bin\Individuele Opdracht.dll.config
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Individuele Opdracht\bin\Individuele Opdracht.dll
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Individuele Opdracht\bin\Individuele Opdracht.pdb
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Individuele Opdracht\bin\Oracle.DataAccess.dll
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Individuele Opdracht\obj\x86\Debug\Individuele Opdracht.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Individuele Opdracht\obj\x86\Debug\Individuele Opdracht.dll
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\Individuele Opdracht\obj\x86\Debug\Individuele Opdracht.pdb
