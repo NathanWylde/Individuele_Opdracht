@@ -4,12 +4,17 @@ using Individuele_Opdracht;
 
 
 namespace Kieskeurig
-{
 
+        [TestMethod]
+        public void NamePropTest()
+        {
+            Person p = new Person();
 
-    [TestClass]
-    public class UnitTest
-    {
+            p.Name = "Jan";
+            p.Surname = "Roelofsen";
+
+            Assert.AreEqual("Jan Roelofsen", p.FullName);
+        }
 
         /// <summary>
         /// Testmethode om te kijken of de naam van het product klopt
@@ -24,6 +29,3 @@ namespace Kieskeurig
             //verwachte result is true
             Assert.AreEqual(expected, result);
         }
-        
-    }
-}
